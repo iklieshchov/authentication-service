@@ -1,0 +1,11 @@
+node_modules
+
+# ignore generated certs
+support/certificates/access.key
+support/certificates/access.pem
+support/certificates/refresh.key
+support/certificates/refresh.pem
+
+
+# other
+**/.DS_Store
